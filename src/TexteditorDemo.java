@@ -5,10 +5,6 @@ import java.awt.event.ActionListener;
 import java.awt.print.PrinterException;
 import java.io.*;
 
-// kommentar testbranch
-// kommentar master
-
-
 public class TexteditorDemo extends JFrame {
     JFrame frame = new JFrame();
     JPanel panel1 = new JPanel();
