@@ -5,7 +5,7 @@ import java.awt.event.ActionListener;
 import java.awt.print.PrinterException;
 import java.io.*;
 
-// kommentar
+// kommentar testbranch
 
 
 public class TexteditorDemo extends JFrame {
